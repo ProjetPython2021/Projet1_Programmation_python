@@ -1,1 +1,3 @@
 # Projet1_Programmation_python
+L'objectif de ce projet consiste à concevoir un logiciel de dessin 2D avec des figures géométriques simple. Il s’agira de construire une bibliothèque de fonction qui va implémenter un certain nombre de fonctions permettant de dessiner des figures en utilisant à la base le module de dessin turtle de python. Vous commencerez par vous familiariser avec cet outil en consultant les pages du cours à ce sujet via la documentation officielle de python : https://docs.python.org/3/library/turtle.html
+projet python présenté par MOUSSA Gaye chargé de la creation des module et des commentaires de specofication et Maréme Ngom de la modelisation des figures et du tableau de flux de donnes
